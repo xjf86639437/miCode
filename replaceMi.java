@@ -6,7 +6,7 @@ public class replaceMi
 {
 	public static void main(String[] args) 
 	{
-		String word = "ammiimiid";
+		String word = "ammiimiidddddddd";
 		
 		System.out.println( replace(word));
 	}
